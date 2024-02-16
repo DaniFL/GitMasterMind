@@ -37,4 +37,5 @@ body {
 
 .post span {
     color: #61afef;
+    max-width: 1;
 }
