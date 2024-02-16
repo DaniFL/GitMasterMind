@@ -1,0 +1,7 @@
+# ignorar archivo style.css
+*.css
+```
+
+### Ignorar directorios particulares
+index.html
+  
