@@ -1,3 +1,3 @@
 # Curso GIT Mastermind
 
-Estmaos realizando diversas pruebas de compatibilidad. 
+Estamos realizando diversas pruebas de compatibilidad. 
